@@ -25,4 +25,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 For my starter project, I made a an Arduino circuit with a potentiometer as an input, and a servo motor and LED as an output. In this circuit, the direction in which the potentiometer is turned is 
 
-[![Starter Project](https://www.youtube.com/watch?v=qiLTGKnkjeY){https://i3.ytimg.com/vi/qiLTGKnkjeY/maxresdefault.jpg}
+[![Starter Project](https://i3.ytimg.com/vi/qiLTGKnkjeY/maxresdefault.jpg){https://www.youtube.com/watch?v=qiLTGKnkjeY}
+
+

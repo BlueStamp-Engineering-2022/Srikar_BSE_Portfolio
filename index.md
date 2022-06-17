@@ -28,6 +28,7 @@ For my starter project, I made a an Arduino circuit with a potentiometer as an i
 # Starter Project
 
 [![Starter Project](http://i3.ytimg.com/vi/qiLTGKnkjeY/hqdefault.jpg)](https://www.youtube.com/watch?v=qiLTGKnkjeY "Starter Project")
+
 {:target="_blank" rel="noopener"}
 
 

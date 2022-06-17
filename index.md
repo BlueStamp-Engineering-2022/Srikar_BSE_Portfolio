@@ -25,7 +25,9 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 For my starter project, I made a an Arduino circuit with a potentiometer as an input, and a servo motor and LED as an output. In this circuit, the direction in which the potentiometer is turned is 
 
-[![Starter Project]
-(https://i3.ytimg.com/vi/qiLTGKnkjeY/maxresdefault.jpg) (https://www.youtube.com/watch?v=qiLTGKnkjeY)
+# Starter Project
+
+[![Starter Project]([https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg](https://i3.ytimg.com/vi/qiLTGKnkjeY/maxresdefault.jpg))]([https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"](https://www.youtube.com/watch?v=qiLTGKnkjeY)){:target="_blank" rel="noopener"}
+
 
 

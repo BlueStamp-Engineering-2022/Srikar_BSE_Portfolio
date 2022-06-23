@@ -23,9 +23,8 @@ My first milestone was assembling all the 3D-printed parts and installing the ge
 
 [![First Milestone](https://img.youtube.com/vi/kdh-Tp_1m2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=kdh-Tp_1m2Y "First Milestone"){:target="_blank" rel="noopener"}
 
-For my starter project, I made a an Arduino circuit with a potentiometer as an input, and a servo motor and LED as an output. In this circuit, the direction in which the potentiometer is turned causes the servo motor to turn accordingly. Additionally, the potentiometer serves as a dial that determines the brightness of the LED.
-
 # Starter Project
+For my starter project, I made a an Arduino circuit with a potentiometer as an input, and a servo motor and LED as an output. In this circuit, the direction in which the potentiometer is turned causes the servo motor to turn accordingly. Additionally, the potentiometer serves as a dial that determines the brightness of the LED.
 
 [![Starter Project](http://i3.ytimg.com/vi/qiLTGKnkjeY/hqdefault.jpg)](https://www.youtube.com/watch?v=qiLTGKnkjeY "Starter Project")
 

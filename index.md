@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Smartphone Controlled Door Lock
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was wiring all the seperate components together and ensure everything was functional. During this part, I connected an arduino to a breadboard, bluetooth card, and the servo motor I assembled previously. After doing this, I coded the arduino and designed a simple android app. The android app talks to the arduino using the bluetooth card and sends a string everytime a user inputs something on the app. The code running on the arduino then dissects the string to check if the password entered in the app is correct. If so, it turns the servo motor and unlocks or locks the door. If the password is incorrect, the door locks.
 
 [![Third Milestone](https://img.youtube.com/vi/qeDH108uZjY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qeDH108uZjY "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone

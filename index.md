@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was assembling all the 3D-printed parts and installing the geared servo motor on the track. In order to make sure everything was stable, I used screws and washers to fasten everything together and ensure the gear wouldn't fall off the track made for it. One modification I made (after this video was filmed) was that I broke off a part of the 3D printed part so that I could easily see the gear. I did this because it made it easier to test the door lock as a whole.
 
 [![First Milestone](https://img.youtube.com/vi/kdh-Tp_1m2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=kdh-Tp_1m2Y "First Milestone"){:target="_blank" rel="noopener"}
 

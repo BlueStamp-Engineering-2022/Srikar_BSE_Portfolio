@@ -1,5 +1,5 @@
 ﻿# Smartphone Controlled Door Lock
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+For my project, I made a door lock controlled by an android phone via bluetooth. Using the app, the user can lock or unlock their door by entering a password and choosing the action they want. Additionally, there is an LCD display outside the door that shows if the door is locked or unlocked; it also gives feedback if the entered password is incorrect.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

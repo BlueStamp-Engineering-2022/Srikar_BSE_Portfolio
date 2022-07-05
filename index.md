@@ -13,9 +13,8 @@ My final milestone was adding the LCD display to the door lock, which shows peop
 [![Final Milestone](https://img.youtube.com/vi/Ub7cO1ISwrk/maxresdefault.jpg )](https://www.youtube.com/watch?v=Ub7cO1ISwrk "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was wiring all the seperate components together and ensure everything was functional. During this part, I connected an arduino to a breadboard, bluetooth card, and the servo motor I assembled previously. After doing this, I coded the arduino and designed a simple android app. The android app talks to the arduino using the bluetooth card and sends a string everytime a user inputs something on the app. The code running on the arduino then dissects the string to check if the password entered in the app is correct. If so, it turns the servo motor and unlocks or locks the door. If the password is incorrect, the door locks.
-
-Here is a schematic of the wiring: [![Second Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)]
+My second milestone was wiring all the seperate components together and ensure everything was functional. During this part, I connected an arduino to a breadboard, bluetooth card, and the servo motor I assembled previously. After doing this, I coded the arduino and designed a simple android app. The android app talks to the arduino using the bluetooth card and sends a string everytime a user inputs something on the app. The code running on the arduino then dissects the string to check if the password entered in the app is correct. If so, it turns the servo motor and unlocks or locks the door. If the password is incorrect, the door locks. Here is a schematic of the wiring: 
+![Second Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 
 [![Second Milestone](https://img.youtube.com/vi/qiLTGKnkjeY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qeDH108uZjY "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone

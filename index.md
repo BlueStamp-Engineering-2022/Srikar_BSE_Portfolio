@@ -8,13 +8,15 @@ For my project, I made a door lock controlled by an android phone via bluetooth.
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWfd4dRvPAdevC8uQD5BAGlrTkiSEIejKgGMrf6Ioi7zm-y-rQSPijZxKdHorBCxwCIgvUzAdC4sgc-4A9S3oRGqgodxC7O4o6nuXvSSjbxyCt2yUhsgkUaQuAJ4a0RgB01Sj9s7dog-eMnixIZVnbI=w923-h922-no?authuser=0)
   
 # Final Milestone
-My final milestone was adding the LCD display to the door lock, which shows people outside the door if the door is locked or not. The LCD display is also attached to a potentiometer that controls the contrast of the display. During this portion of my project, I had to connect each of the pins on the LCD display to various ports on the arduino and breadboard in order to complete the circuit. This part was pretty hard because the amount of wiring doubled with the addition of the display. Finally, I coded the LCD display to print "Locked", "Unlocked", and "Wrong Password" at the appropriate times. This was relatively simple as it only needed minor changes in the code. This is the schematic of the LCD wiring: 
-[![Final Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)]
+My final milestone was adding the LCD display to the door lock, which shows people outside the door if the door is locked or not. The LCD display is also attached to a potentiometer that controls the contrast of the display. During this portion of my project, I had to connect each of the pins on the LCD display to various ports on the arduino and breadboard in order to complete the circuit. This part was pretty hard because the amount of wiring doubled with the addition of the display. Finally, I coded the LCD display to print "Locked", "Unlocked", and "Wrong Password" at the appropriate times. This was relatively simple as it only needed minor changes in the code. This is a schematic of the wiring: 
+
+![Final Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 
 [![Final Milestone](https://img.youtube.com/vi/Ub7cO1ISwrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ub7cO1ISwrk "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was wiring all the seperate components together and ensure everything was functional. During this part, I connected an arduino to a breadboard, bluetooth card, and the servo motor I assembled previously. After doing this, I coded the arduino and designed a simple android app. The android app talks to the arduino using the bluetooth card and sends a string everytime a user inputs something on the app. The code running on the arduino then dissects the string to check if the password entered in the app is correct. If so, it turns the servo motor and unlocks or locks the door. If the password is incorrect, the door locks. This is a schematic of the wiring: 
+
 ![Second Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
 
 [![Second Milestone](https://img.youtube.com/vi/qiLTGKnkjeY/maxresdefault.jpg)](https://www.youtube.com/watch?v=qeDH108uZjY "Second Milestone"){:target="_blank" rel="noopener"}

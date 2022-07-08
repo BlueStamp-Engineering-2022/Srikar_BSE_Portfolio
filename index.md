@@ -10,7 +10,7 @@ For my project, I made a door lock controlled by an android phone via bluetooth.
 # Final Milestone
 My final milestone was adding the LCD display to the door lock, which shows people outside the door if the door is locked or not. The LCD display is also attached to a potentiometer that controls the contrast of the display. During this portion of my project, I had to connect each of the pins on the LCD display to various ports on the arduino and breadboard in order to complete the circuit. This part was pretty hard because the amount of wiring doubled with the addition of the display. Finally, I coded the LCD display to print "Locked", "Unlocked", and "Wrong Password" at the appropriate times. This was relatively simple as it only needed minor changes in the code. This is a schematic of the wiring: 
 
-![Final Milestone](https://hackster.imgix.net/uploads/attachments/396202/F1PUATMJ7ARLKHH.MEDIUM.jpg?auto=compress%2Cformat&w=1280&h=960&fit=max)
+![Final Milestone](https://docs.arduino.cc/static/7d7b6e99f40c7e55f2e9c6175c6db5b5/260cd/LCD_Base_bb_Fritz.png)
 
 [![Final Milestone](https://img.youtube.com/vi/Ub7cO1ISwrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ub7cO1ISwrk "Final Milestone"){:target="_blank" rel="noopener"}
 

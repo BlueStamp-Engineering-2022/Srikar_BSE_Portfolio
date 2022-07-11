@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/contstraintLayout">
+
+    <LinearLayout
+        app:layout_constraintLeft_toLeftOf="@id/contstraintLayout"
+        app:layout_constraintRight_toRightOf="@id/contstraintLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/contstraintLayout"
+        tools:clipToPadding="false"
+        tools:context=".MainActivity"
+        android:id="@+id/top"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        tools:orientation="vertical"
+        tools:padding="24dp">
+
+        <Button
+            android:id="@+id/bluetoothConnectButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/connect_device_button_text"
+            android:visibility="visible"
+            android:onClick="connectBluetooth"
+            tools:visibility="visible"
+            />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/openDoorButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginBottom="26dp"
+        android:text="Open Door"
+        android:visibility="visible"
+        android:onClick="sendOpenMessage"
+        app:layout_constraintBottom_toTopOf="@id/closeDoorButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/enterPasswordTextView"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/closeDoorButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:text="Close Door"
+        android:visibility="visible"
+        android:onClick="sendClosedMessage"
+        app:layout_constraintTop_toBottomOf="@id/openDoorButton"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="142dp"
+        tools:visibility="visible" />
+
+    <TextView
+        android:id="@+id/enterPasswordTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="101dp"
+        android:layout_marginEnd="101dp"
+        android:layout_marginBottom="74dp"
+        android:ems="10"
+        android:text="Enter Password:"
+        android:textSize="25dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@id/openDoorButton"
+        app:layout_constraintTop_toBottomOf="@id/top"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:visibility="visible" />
+
+    <EditText
+        android:id="@+id/passwordBoxEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="101dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="101dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:visibility="visible"
+        android:textSize="25dp"
+
+        app:layout_constraintTop_toBottomOf="@id/enterPasswordTextView"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:visibility="visible"
+        tools:ignore="TextFields" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+    

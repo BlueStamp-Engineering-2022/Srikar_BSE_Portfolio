@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Door Lock</string>
+    <string name="connect_device_button_text">Connect Bluetooth Device</string>
+</resources>

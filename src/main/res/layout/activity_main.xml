@@ -26,7 +26,6 @@
             android:layout_height="match_parent"
             android:text="@string/connect_device_button_text"
             android:visibility="visible"
-            android:onClick="connectBluetooth"
             tools:visibility="visible"
             />
 

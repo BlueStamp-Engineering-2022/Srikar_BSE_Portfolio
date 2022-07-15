@@ -3,7 +3,7 @@ For my project, I made a door lock controlled by an android phone via bluetooth.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Srikar Govindaraju | Archbishop Mitty | Electrical Engineering / Aerospace Engineering | Rising Junior (Class of 2024)
+| Srikar | Archbishop Mitty | Electrical Engineering / Aerospace Engineering | Rising Junior (Class of 2024)
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWfd4dRvPAdevC8uQD5BAGlrTkiSEIejKgGMrf6Ioi7zm-y-rQSPijZxKdHorBCxwCIgvUzAdC4sgc-4A9S3oRGqgodxC7O4o6nuXvSSjbxyCt2yUhsgkUaQuAJ4a0RgB01Sj9s7dog-eMnixIZVnbI=w923-h922-no?authuser=0)
   

@@ -12,6 +12,7 @@ My final milestone was adding the LCD display to the door lock, which shows peop
 
 ![Final Milestone](https://docs.arduino.cc/static/7d7b6e99f40c7e55f2e9c6175c6db5b5/260cd/LCD_Base_bb_Fritz.png)
 
+Here is a link to a video presentation in case the video player doesn't work: https://www.youtube.com/watch?v=Ub7cO1ISwrk
 [![Final Milestone](https://img.youtube.com/vi/Ub7cO1ISwrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ub7cO1ISwrk "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
